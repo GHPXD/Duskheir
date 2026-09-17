@@ -1,0 +1,6 @@
+﻿[mcp_servers.gda-mcp]
+command = "gda-mcp"
+
+[mcp_servers.gda-mcp.env]
+GDA_PROJECT = "C:\\Projects\\Duskheir"
+GDA_GODOT = "C:\\Program Files (x86)\\Godot\\Godot_v4.7.2-stable_win64.exe"

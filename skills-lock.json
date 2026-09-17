@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "skills": {
+    "game-balance": {
+      "source": "pbzona/godot-skills",
+      "sourceType": "github",
+      "skillPath": "skills/game-balance/SKILL.md",
+      "computedHash": "f4df6721640bb4ad599b8e052ff93cfa722ebea58b3e598a34f71727a69830c9"
+    },
+    "game-mechanics-design": {
+      "source": "pbzona/godot-skills",
+      "sourceType": "github",
+      "skillPath": "skills/game-mechanics-design/SKILL.md",
+      "computedHash": "d2015a79c0d59359e3e993d699a7ae61b7680ed4ab5f4c40d4c5718cd77be6ba"
+    },
+    "game-systems-design": {
+      "source": "pbzona/godot-skills",
+      "sourceType": "github",
+      "skillPath": "skills/game-systems-design/SKILL.md",
+      "computedHash": "82f750fe8dc6f6087cec428efb15514a6c55618d9b8a41fa2ffdcceea0209dbb"
+    },
+    "gamedev-math": {
+      "source": "pbzona/godot-skills",
+      "sourceType": "github",
+      "skillPath": "skills/gamedev-math/SKILL.md",
+      "computedHash": "00db5d58fa078625b0b084944393171e2ce8dda0d8285239a7fb483eb5e454b6"
+    },
+    "godot-2d-gameplay": {
+      "source": "pbzona/godot-skills",
+      "sourceType": "github",
+      "skillPath": "skills/godot-2d-gameplay/SKILL.md",
+      "computedHash": "c1d1a8b48706d0a7920354147a619fd5639a19fb5ea26bf03fc2b7e55e9f6277"
+    },
+    "godot-fundamentals": {
+      "source": "pbzona/godot-skills",
+      "sourceType": "github",
+      "skillPath": "skills/godot-fundamentals/SKILL.md",
+      "computedHash": "134f82b6c2b0286fcd1ee9f533fbd30d80a25fe7f4248bf92c8444c882835ca1"
+    },
+    "godot-game-architecture": {
+      "source": "pbzona/godot-skills",
+      "sourceType": "github",
+      "skillPath": "skills/godot-game-architecture/SKILL.md",
+      "computedHash": "3c2b21e5ca2e534be8ba1fcc36c0f8dcb54c7a84ff8930c01acdbf6f4d955251"
+    },
+    "godot-navigation-ai": {
+      "source": "pbzona/godot-skills",
+      "sourceType": "github",
+      "skillPath": "skills/godot-navigation-ai/SKILL.md",
+      "computedHash": "9131e6e47819d1b849b6d53315efd9c3a23aa13ae4cb7268a07428f26716e2df"
+    },
+    "godot-procedural-generation": {
+      "source": "pbzona/godot-skills",
+      "sourceType": "github",
+      "skillPath": "skills/godot-procedural-generation/SKILL.md",
+      "computedHash": "70995a1d1b8679ba3096bed222d54c26cc93d7cbfc12e91d86fd0bab3a86cc78"
+    },
+    "godot-programming-patterns": {
+      "source": "pbzona/godot-skills",
+      "sourceType": "github",
+      "skillPath": "skills/godot-programming-patterns/SKILL.md",
+      "computedHash": "661b8fa4a680106e7ad331aebf8ac72119c6b32919343f7fd88a70268140bfd7"
+    },
+    "godot-ui": {
+      "source": "pbzona/godot-skills",
+      "sourceType": "github",
+      "skillPath": "skills/godot-ui/SKILL.md",
+      "computedHash": "d7a241b11ba331fe10eccdc10b69ff20b94cf8a7e3691b960ef76cd3ee0f98e7"
+    }
+  }
+}
